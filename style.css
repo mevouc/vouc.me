@@ -27,9 +27,6 @@ body
 
 .content
 {
-  background-size: 100% 200%;
-  margin: auto;
-  padding: auto;
   position: relative;
   z-index: 2;
   height: 100%;
@@ -40,6 +37,8 @@ body
   background-color: #232933;
   height: 100%;
   padding: 0%;
+  min-height: 100%;
+  height: auto;
   width: 33%;
   min-width: 500px;
   margin: auto;
