@@ -30,7 +30,7 @@ body
   background-size: 100% 200%;
   margin: auto;
   padding: auto;
-  position: absolute;
+  position: relative;
   z-index: 2;
   height: 100%;
 }
