@@ -83,10 +83,27 @@ br
 a
 {
   color: #67a1ff;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover
 {
   color: #3771cf;
+  text-decoration: none;
+}
+
+a:link
+{
+  text-decoration: none;
+}
+
+
+h2 a
+{
+  color: #ffffff;
+}
+
+h2 a:hover
+{
+  color: #cfcfcf;
 }
