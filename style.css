@@ -1,6 +1,6 @@
 body
 {
-  background-color: #0f141c;
+  background-color: #050b14;
   color: #ffffff;
   font-family: 'Noto Sans', 'Arial', sans-serif;
   font-size: 180%;
@@ -9,8 +9,8 @@ body
 .background-image
 {
   background-image: url("http://vouc.me/pictures/mevouc_miniature.png");
-  opacity: 0.1;
-  filter: alpha(opacity=10);
+  opacity: 0.4;
+  filter: alpha(opacity=40);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -47,9 +47,9 @@ body
 
 .jumbotron
 {
-  background-color: #192333;
-  padding-top: 10%;
-  padding-bottom: 12%;
+  background-color: #142033;
+  padding-top: 5%;
+  padding-bottom:  7%;
   border-radius: 0px !important;
 }
 
@@ -63,12 +63,13 @@ body
 h2
 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 180%;
+  font-size: 200%;
 }
 
 h3
 {
-  color: #babcbe;
+  //color: #babcbe;
+  color: #77b1ff;
   font-size: 150%;
   font-style: italic;
   margin-top: 8%;
@@ -89,12 +90,7 @@ a
 a:hover
 {
   color: #3771cf;
-  text-decoration: none;
-}
-
-a:link
-{
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 
@@ -106,4 +102,5 @@ h2 a
 h2 a:hover
 {
   color: #cfcfcf;
+  text-decoration: none;
 }
