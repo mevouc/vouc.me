@@ -8,7 +8,7 @@ body
 
 .background-image
 {
-  background-image: url("http://vouc.me/pictures/mevouc_miniature.png");
+  background-image: url("https://vouc.me/pictures/mevouc_miniature.png");
   opacity: 0.4;
   filter: alpha(opacity=40);
   background-size: contain;
