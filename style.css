@@ -11,7 +11,6 @@ body
   background-image: url("https://vouc.me/pictures/mevouc_miniature.png");
   opacity: 0.4;
   filter: alpha(opacity=40);
-  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   display: block;
@@ -33,10 +32,30 @@ body
   padding: 0%;
   min-height: 100%;
   height: auto;
-  width: 33%;
-  min-width: 500px;
   margin: auto;
   box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (orientation: landscape) {
+  .background-image {
+    background-size: auto 100%;
+  }
+  .content {
+    width: 33%;
+    min-width: 500px;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  .background-image {
+    background-size: contain;
+  }
+
+  .content {
+    width: 100%;
+    max-width: 500px;
+    min-width: 150px;
+  }
 }
 
 .jumbotron
