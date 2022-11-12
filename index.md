@@ -33,10 +33,20 @@ design and education.
 When I am not coding, you can find me at the pub with good friends, or
 at the top of a route in my local climbing gym.
 
+### Equativ
+
+I am currently holding a Backend Engineer position at
+[Equativ](https://equativ.com), in Paris.
+
+As part of the Product&Marketing and Addressability Backend team, my role is to
+maintain our APIs and implement new features (often defined by the Open RTB
+standard) to improve integration of our partners (i.e advertizers) needs. Our
+backend tools are mainly developed in C\#/.Net.
+
 ### Bentley Systems
 
-I am currently holding a Software Engineer position at [Bentley
-Systems](https://www.bentley.com), in Paris office.
+Before that, I was a Software Engineer at [Bentley
+Systems](https://www.bentley.com), also in Paris.
 
 During my first 2 years at Bentley, as a part of the on-boarding
 program, I first was switching teams within Bentley every 6 months. I
