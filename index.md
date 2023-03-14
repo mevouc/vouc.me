@@ -38,7 +38,7 @@ at the top of a route in my local climbing gym.
 I am currently holding a Backend Engineer position at
 [Equativ](https://equativ.com), in Paris.
 
-As part of the Product&Marketing and Addressability Backend team, my role is to
+As part of the Programmatic MarketPlace and Addressability Backend team, my role is to
 maintain our APIs and implement new features (often defined by the Open RTB
 standard) to improve integration of our partners (i.e advertizers) needs. Our
 backend tools are mainly developed in C\#/.Net.
